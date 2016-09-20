@@ -7,6 +7,7 @@ This documentation runs students through the pentester & secops labs used at r00
 
 I have not identified an adequate location for the VMs yet, but at some point I'll upload them somewhere. 
 
-'//todo:'
+`//todo:`
+
 1. Upload pentest scripts that help avoid typos to their own repository
 2. Upload VMs somewhere
